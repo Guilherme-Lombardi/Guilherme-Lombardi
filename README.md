@@ -1,6 +1,6 @@
 # Olá, me chamo Guilherme Lombardi 👋
 
-Estudante de Ciência da Computação na Universidade Braz Cubas, em busca de estágio na área de TI.
+Estudante de Ciência da Computação (5º Semestre) na Universidade Braz Cubas, em busca de estágio na área de TI.
 Tenho interesse em desenvolvimento de software e gestão de sistemas, com foco em aprendizado contínuo e contribuição em ambientes colaborativos.
 
 ---
@@ -47,3 +47,13 @@ Tenho interesse em desenvolvimento de software e gestão de sistemas, com foco e
 - 🏙️ Mogi das Cruzes, SP
 - 📚 Atualmente estudando desenvolvimento web e lógica de programação
 - 🤝 Aberto a oportunidades de estágio em TI
+
+---
+
+## 🚀 Projetos e Colaborações
+
+### [Sistema de Detecção de Fraudes Financeiras](https://github.com/1s4ntos/Sistema-de-Detec-o-de-Fraudes-em-Transa-es-Financeiras)
+*Colaboração em projeto de segurança e análise de dados.*
+- **Contribuição:** Desenvolvimento de lógica de backend em **Python** para identificação de padrões suspeitos em transações.
+- **Destaque:** Aplicação de conhecimentos em **lógica financeira** e tratamento de dados para mitigação de riscos.
+
