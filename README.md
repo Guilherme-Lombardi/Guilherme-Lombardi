@@ -27,9 +27,9 @@ Tenho interesse em desenvolvimento de software e gestão de sistemas, com foco e
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Guilherme-Lombardi&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_border=true)
+[![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Guilherme-Lombardi&show_icons=true&hide_border=true&locale=pt-br)](https://github.com/Guilherme-Lombardi)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-Lombardi&layout=compact&theme=default&hide_border=true)
+[![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Guilherme-Lombardi&layout=compact&hide_border=true&locale=pt-br)](https://github.com/Guilherme-Lombardi)
 
 </div>
 
