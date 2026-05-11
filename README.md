@@ -57,3 +57,13 @@ Tenho interesse em desenvolvimento de software e gestão de sistemas, com foco e
 - **Contribuição:** Desenvolvimento de lógica de backend em **Python** para identificação de padrões suspeitos em transações.
 - **Destaque:** Aplicação de conhecimentos em **lógica financeira** e tratamento de dados para mitigação de riscos.
 
+### [BrandWatchr](https://github.com/Guilherme-Lombardi/BrandWatchrProject)
+*Projeto acadêmico — Monitoramento e análise de reputação de marcas.*
+- **Descrição:** Aplicativo que coleta e analisa menções públicas sobre marcas, classificando-as por sentimento (positivo, neutro ou negativo) para apoiar decisões estratégicas de comunicação e marketing.
+- **Tecnologias:** Python, Gradio, TextBlob, Pandas, Matplotlib, HuggingFace, Google Translator
+
+### [Autocomplete Inteligente no Apoio à Identificação de Sintomas Médicos](https://github.com/Guilherme-Lombardi/autocomplete-sintomas-medicos)
+*Artigo científico — Revisão narrativa sobre IA aplicada à saúde.*
+- **Tema:** Análise de viabilidade do uso de **árvores de decisão** em sistemas de autocomplete clínico para identificação de sintomas.
+- **Destaque:** Estudo das implicações técnicas, clínicas e éticas da IA no contexto do Prontuário Eletrônico do Paciente (PEP) no Brasil.
+
